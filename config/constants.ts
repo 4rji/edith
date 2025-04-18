@@ -1,4 +1,6 @@
-export const MODEL = "gpt-4o-mini";
+#export const MODEL = "gpt-4o-mini";
+export const MODEL = "gpt-3.5-turbo";
+
 
 // Developer prompt for the assistant
 export const DEVELOPER_PROMPT = `
